@@ -4,15 +4,11 @@
 // @version      1.0
 // @description  Shows a prominent banner above YouTube videos when the description mentions AI-generated music.
 // @author       Vincent Lorenzi
-// @licence      GNU GPL 3.0
+// @license      GNU GPL 3.0
 // @match        https://www.youtube.com/*
 // @homepageURL  https://github.com/VincentLorenzi/AI-Music-Banner-for-YouTube
 // @updateURL    https://raw.githubusercontent.com/VincentLorenzi/AI-Music-Banner-for-YouTube/ai-music-banner.user.js
 // @downloadURL  https://raw.githubusercontent.com/VincentLorenzi/AI-Music-Banner-for-YouTube/ai-music-banner.user.js
-// @grant        GM_getValue
-// @grant        GM_setValue
-// @grant        GM_registerMenuCommand
-// @run-at       document-idle
 // ==/UserScript==
 
 
