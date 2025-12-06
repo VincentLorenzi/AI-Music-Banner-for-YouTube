@@ -4,9 +4,12 @@ This userscript detects likely AI‑generated music in YouTube video description
 
 ## Installation
 
-1. Install Tampermonkey (Chrome/Edge/Firefox) or another compatible userscript manager.
-2. Create a new userscript and paste the contents of `ai-music-banner.user.js` into it, or open the file with Tampermonkey's import.
-3. Ensure the script is enabled and open a YouTube video page to test.
+1. Install TamperMonkey browser extension: [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)|[Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+2. [Open this link](https://github.com/VincentLorenzi/AI-Music-Banner-for-YouTube/raw/refs/heads/main/ai-music-banner.user.js)
+3. Press install
+4. Allow user scripts
+   i. Chrome: Settings>Extensions>Manage Extensions>Tampermonkey>Details>Allow User Scripts
+   ii. Firefox: Settings>Extensions and Themes>Tampermonkey>Allow User Scripts
 
 ## Usage
 
